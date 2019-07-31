@@ -1,0 +1,56 @@
+header{
+   font-family: "Saira Stencil One",regular;
+   margin-left: 50px;
+   align-items: center;
+}
+img{
+   width: 250px;
+   margin-left: 100px;
+}
+h2{
+   font-size: 30px;
+   color:#cccccc;
+   margin-left: 120px;
+   float:left;
+   width:30%;
+}
+h3{
+   font-size: 100px;
+   color:#cccccc;
+   margin-left: 400px;
+   float:right;
+   width:70%;
+   line-height: 100px;
+}
+h4{
+   font-size: 100px;
+   color:#666699;
+   margin-left: 400px;
+   float:right;
+   width:70%;
+   line-height: 140px;
+}
+.answers{
+   font-family: "Farro",bold;
+   color:#666699;
+   font-size: 30px;
+   margin-left: 480px;
+   line-height: 60px;
+}
+.left{
+   font-family: "Farro",regular;
+   color:#cccccc;
+   font-size: 15px;
+   margin-left: 480px;
+   margin-right: 180px;
+   line-height: 30px;
+
+}
+
+
+
+
+body{
+   font-family: Farro,regular;
+   font-size:10px;
+}
